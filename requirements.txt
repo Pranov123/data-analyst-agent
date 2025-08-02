@@ -1,6 +1,0 @@
-flask
-pandas
-duckdb
-matplotlib
-beautifulsoup4
-requests
