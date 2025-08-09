@@ -1,0 +1,10 @@
+flask
+google-generativeai
+matplotlib
+numpy
+pandas
+requests
+duckdb
+polars
+sqlalchemy
+beautifulsoup4
